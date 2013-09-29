@@ -1,0 +1,12 @@
+.metadata
+.settings
+.worksheet
+lib_managed
+project
+submission
+target
+.cache
+.classpath
+.project
+build.sbt
+*.zip
